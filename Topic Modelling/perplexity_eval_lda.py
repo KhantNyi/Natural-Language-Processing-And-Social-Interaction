@@ -1,6 +1,3 @@
-# Khant Nyi Thu
-# 6632108
-
 '''
 Evaluation of Topic Modeling LDA using perplexity
 4550 perplexity score for 20 topics with Count Vectorization method that was used in Jupyter Notebook
