@@ -1,6 +1,3 @@
-# Khant Nyi Thu
-# 6632108
-
 '''
 Quora Questions
 Evaluation of Topic Modeling NMF by using Coherence Score
